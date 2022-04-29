@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "979370502938",
+    "project_id": "login-360a2",
+    "storage_bucket": "login-360a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979370502938:android:eea33aa34bae2c0f2f1aa3",
+        "android_client_info": {
+          "package_name": "com.login.aplicationlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979370502938-82mevdufot5jitifae0tmf0392a7j420.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYDeIcVov3utQe8RJcBQudMSt0Gof_YUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979370502938-82mevdufot5jitifae0tmf0392a7j420.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
